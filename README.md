@@ -59,15 +59,19 @@ menampilkannya dalam bentuk tabel.
 <img width="742" height="232" alt="image" src="https://github.com/user-attachments/assets/75f2a960-8a34-4b41-8695-2f8881434d60" />
 
 > Tampilan Awal Form
+<img width="1342" height="586" alt="image" src="https://github.com/user-attachments/assets/cf37aa3b-8150-49ca-b9c2-1a1070f917d7" />
 
 > Tampilan Setelah Pendaftaran Berhasil
+<img width="1376" height="945" alt="image" src="https://github.com/user-attachments/assets/4fd1396b-0998-4c4a-a74b-57add71c008b" />
 
-> Contoh Pesan Error Validasi 
+> Contoh Pesan Error Validasi
+<img width="1342" height="936" alt="image" src="https://github.com/user-attachments/assets/5aa52877-e855-416f-93cc-999659960804" />
+
 
 ---
 
 ## ✅ Kesimpulan
 
-Dalam praktikum ini, saya mempelajari cara mengelola proyek web menggunakan Git, mulai dari **inisialisasi repository, staging, commit, branch, merge, hingga push ke GitHub**. Dokumentasi ini menjadi dasar untuk memahami **version control** dalam pengembangan perangkat lunak.
+Praktikum ini berhasil menunjukkan bagaimana konsep dasar PHP dapat diterapkan dalam membangun sebuah aplikasi sederhana berupa form pendaftaran event. Melalui implementasi variabel, fungsi, validasi input dengan regex, serta operasi file, aplikasi ini mampu menerima data peserta, memvalidasi input, menyimpannya ke dalam file, dan menampilkannya kembali dalam bentuk tabel.
 
 ---
