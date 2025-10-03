@@ -31,32 +31,38 @@ menampilkannya dalam bentuk tabel.
 
 ## 📸 Screenshoot
 
-> Inisialisasi Git & Cek Status
-<img width="991" height="150" alt="image" src="https://github.com/user-attachments/assets/cb96a655-a021-4a29-8196-6db83495873e" />
+> Membuat File `README.md`
+<img width="660" height="58" alt="image" src="https://github.com/user-attachments/assets/6e58c135-83da-45f0-acb1-c7e39c00210f" />
 
-> Membuat File `index.html` & `style.css`
-<img width="1183" height="133" alt="image" src="https://github.com/user-attachments/assets/47005b07-e636-447f-8cec-71c53afa6e0c" />
+> Inisialisasi Git Repository
+<img width="750" height="78" alt="image" src="https://github.com/user-attachments/assets/eb048929-418b-407b-a002-69cdb432600d" />
 
 > Menambahkan File ke Staging Area
-<img width="630" height="278" alt="image" src="https://github.com/user-attachments/assets/4d8beecc-9736-458c-9dbf-b0a7b3ff5dd0" />
+<img width="1124" height="82" alt="image" src="https://github.com/user-attachments/assets/21234f9f-4fec-455d-9428-a57749fb6652" />
 
 > Commit Pertama
-<img width="1212" height="120" alt="image" src="https://github.com/user-attachments/assets/4f7e37f8-6b9a-4e14-80a2-1eb2ea1d1dfd" />
+<img width="759" height="115" alt="image" src="https://github.com/user-attachments/assets/2e19a759-153d-4214-994f-3969d1564d27" />
 
-> Membuat Branch Baru `dev`
-<img width="850" height="59" alt="image" src="https://github.com/user-attachments/assets/122c0ec9-d647-43a6-a074-1079368ccb07" />
+> Membuat Branch `main`
+<img width="755" height="57" alt="image" src="https://github.com/user-attachments/assets/74bb4c75-3b17-41c9-aacd-bd8365d79d79" />
 
-> Edit File di Branch `dev`
-<img width="1030" height="29" alt="image" src="https://github.com/user-attachments/assets/d525840b-e31b-4182-b4f9-8275b09cdfc2" />
+> Menambahkan Remote Repository GitHub
+<img width="840" height="77" alt="image" src="https://github.com/user-attachments/assets/da781755-8170-4446-afcb-3edefeb05c7f" />
 
-> Commit di Branch
-<img width="1074" height="99" alt="image" src="https://github.com/user-attachments/assets/c740d863-0584-42dc-a3f9-154a9b392202" />
+> Menambahkan File Baru `pendaftar.txt`
+<img width="1162" height="81" alt="image" src="https://github.com/user-attachments/assets/79e7979b-5021-484c-8002-f83028ae362c" />
 
-> Merge Branch `dev` ke `main`
-<img width="776" height="122" alt="image" src="https://github.com/user-attachments/assets/2395ec4e-edcd-418b-a3a7-d110daad74c8" />
+> Commit Kedua (fitur pendaftaran event)
+<img width="738" height="137" alt="image" src="https://github.com/user-attachments/assets/4c802064-b86e-4965-9901-9b9fee77330a" />
 
 > Push ke GitHub Repository
-<img width="1215" height="366" alt="image" src="https://github.com/user-attachments/assets/29355f33-a5c7-4ea6-9016-f71b12678f37" />
+<img width="742" height="232" alt="image" src="https://github.com/user-attachments/assets/75f2a960-8a34-4b41-8695-2f8881434d60" />
+
+> Tampilan Awal Form
+
+> Tampilan Setelah Pendaftaran Berhasil
+
+> Contoh Pesan Error Validasi 
 
 ---
 
